@@ -23,3 +23,4 @@ print(f"Điện năng: {dien_nang_kwh:.3f} kWh")
 print(f"Chi phí: {chi_phi:.2f} VND")
 print(f"Trên 60 phút: {tren_60_phut}")
 print(f"Ghi nhận lúc: {thoi_diem_hien_tai}")
+# Đã kiểm thử xong v2
